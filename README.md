@@ -26,7 +26,7 @@ My MSc dissertation investigated interpretable machine learning approaches for l
 
 Repository: [sentiment-analysis](https://github.com/akiba-mon/sentiment-analysis)
 
-Key highlights:
+**Key highlights:**
 
 * Processed and analysed approximately 1.6 million tweets from the Sentiment140 dataset.
 * Developed an end-to-end NLP pipeline for sentiment classification.
