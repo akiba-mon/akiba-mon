@@ -20,12 +20,11 @@ My MSc dissertation investigated interpretable machine learning approaches for l
 
 ## Featured Research Project
 
-### Interpretable Social Media Sentiment Classification
+### **Interpretable Social Media Sentiment Classification**
 
 **MSc Dissertation Project**
 
-Repository:
-https://github.com/akiba-mon/sentiment-analysis
+Repository: [sentiment-analysis](https://github.com/akiba-mon/sentiment-analysis)
 
 Key highlights:
 
@@ -50,9 +49,13 @@ I am particularly interested in research exploring:
 
 ## Education
 
-**MSc in Data Science** , University of South Wales, United Kingdom
+**MSc in Data Science** 
 
-**BSc Computer Science and Engineering** , North South University, Bangladesh
+University of South Wales, United Kingdom
+
+**BSc Computer Science and Engineering**
+
+North South University, Bangladesh
 
 ## Contact
 
