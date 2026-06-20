@@ -50,11 +50,9 @@ I am particularly interested in research exploring:
 
 ## Education
 
-**MSc Data Science**
-University of South Wales, United Kingdom
+**MSc Data Science**, University of South Wales, United Kingdom
 
-**BSc Computer Science and Engineering**
-North South University, Bangladesh
+**BSc Computer Science and Engineering**, North South University, Bangladesh
 
 ## Contact
 
